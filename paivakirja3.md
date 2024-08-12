@@ -1,14 +1,14 @@
 # Oppimispäiväkirja: Git projektissa
 
-__Mitä uutta opin osiossa? Miten voisin hyödyntää oppimaani käytännössä?__
+__Mitä hyötyä voisi versionhallinnasta olla, jos kehität projektia yksin?__
 
 Kirjoita tähän vastauksesi
 
-__Millaiset talletuskommentit ovat mielestäsi hyödyllisiä muille projektin jäsenille? Tarkastele kurssilla laatimiasi talletuskommentteja ja arvioi niitä.__
+__Mitä hyötyä voisi versionhallinasta olla, jos projektissa on useita kehittäjiä?__
 
 Kirjoita tähän vastauksesi
 
-__Osallistut 3-4 hengen ohjelmistoprojektikurssille, ja olet saanut tehtäväksesi järjestää projektitiimin versionhallinnan. Kerro, miten tekisit sen. Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
+__Miten järjestäisit projektitiimin versionhallinan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
 
 Kirjoita tähän vastauksesi
 
