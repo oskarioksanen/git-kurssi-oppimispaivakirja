@@ -1,14 +1,14 @@
 # Oppimispäiväkirja: Git projektissa
 
-__Mitä hyötyä voisi versionhallinnasta olla, jos kehität projektia yksin?__
+__Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
 
 Kirjoita tähän vastauksesi
 
-__Mitä hyötyä voisi versionhallinasta olla, jos projektissa on useita kehittäjiä?__
+__Mitä hyötyä voisi olla versionhallinnasta, jos projektissa on useita kehittäjiä?__
 
 Kirjoita tähän vastauksesi
 
-__Miten järjestäisit projektitiimin versionhallinan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
+__Miten järjestäisit projektitiimin versionhallinnan 3-4 hengen ohjelmistoprojektikurssilla? Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
 
 Kirjoita tähän vastauksesi
 
