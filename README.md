@@ -4,9 +4,9 @@
 **Tekijä:** Oskari Oksanen
 ### Repositorion sisältö:
 Tässä repositoriossa on git-versionhallinta -kurssin tehtäväkokonaisuuksiin liittyvät oppimispäiväkirjamateriaalit. Oppimispäiväkirjat ovat jaettu kolmeen osaan:
-* Paikallinen git
-* Hajautettu git
-* Git projektissa
+1. Paikallinen git
+2. Hajautettu git
+3. Git projektissa
 
 Oppimispäiväkirjoihin on koottu ajatuksia oppimisprosessista ja kurssin aiheista.
 
