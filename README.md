@@ -1,8 +1,12 @@
 # Git-oppimispäiväkirja
 
-#### Kurssi: Git-versionhallinta + kurssi_koodi
-#### Tekijä: Oskari Oksanen
-#### Repositorion sisältö:
-Tässä repositoriossa on git-versionhallinta -kurssin tehtäväkokonaisuuksiin liittyvät oppimispäiväkirjamateriaalit. Oppimispäiväkirjat ovat jaettu kolmeen osaan: paikallinen git (tarkista), etärepositoriot (tarkista) ja git projektityöskentelyssä (tarkista).  
+**Kurssi:** Git-versionhallinta (SOF013AS2A-3002)  
+**Tekijä:** Oskari Oksanen
+### Repositorion sisältö:
+Tässä repositoriossa on git-versionhallinta -kurssin tehtäväkokonaisuuksiin liittyvät oppimispäiväkirjamateriaalit. Oppimispäiväkirjat ovat jaettu kolmeen osaan: paikallinen git, hajautettu git ja git projektissa. Oppimispäiväkirjoihin on koottu ajatuksia oppimisprosessista ja kurssin aiheista.
 
+### Oppimispäiväkirjan sisältö
+* [Oppimispäiväkirja 1](paivakirja1.md)
+* [Oppimispäiväkirja 2](paivakirja2.md)
+* [Oppimispäiväkirja 3](paivakirja3.md)
 
